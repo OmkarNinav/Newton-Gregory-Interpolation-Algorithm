@@ -48,7 +48,7 @@ f(x) = f(xₙ) + u▽f(xₙ) + u(u+1)/2!▽²f(xₙ) + u(u+1)(u+2)/2!▽³f(xₙ
 
 where,
 
-u = (x - x₀)/h
+u = (x - xₙ)/h
 
 
 here △/▽ values are obtained from Difference Table
