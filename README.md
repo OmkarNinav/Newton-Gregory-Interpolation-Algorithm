@@ -1,5 +1,5 @@
-# Newton-Raphson-Interpolation-Algorithm
-Interpolation With equal interval using Newton Raphson Algorithm
+# Newton-Gregory-Interpolation-Algorithm
+Interpolation With equal interval using Newton Gregory Algorithm
 Coded entirely using stock python with no imports except csv
 
 The Data for Calculations is imported from ex1.csv  
