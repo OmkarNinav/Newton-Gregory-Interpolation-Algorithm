@@ -49,7 +49,7 @@ for i in range(0, len(temp_x_vals) - 1):
 def ngfdf(diff_table: list, x: float) -> float:
     """
         Calculates unknown value using Newton Gregory Forward Difference Formula
-        f(x) = f(x₀) + u△f(x₀) + u(u-1)/2!△²f(x₀) + u(u-1)(u-2)/2!△³f(x₀) + ... + u(u-1)(u-2)...(u-n)/n!△ⁿf(x₀)
+        f(x) = f(x₀) + u△f(x₀) + u(u-1)/2!△²f(x₀) + u(u-1)(u-2)/2!△³f(x₀) + ... + u(u-1)(u-2)...(u-n+1)/n!△ⁿf(x₀)
     :param diff_table: Difference Table
     :param x: Unknown Value to fond
     :return: Value of 'x'
