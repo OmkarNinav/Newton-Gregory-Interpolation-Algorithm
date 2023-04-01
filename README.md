@@ -15,7 +15,7 @@ of argument when the values of the function corresponding to number of values of
 given.
 
 The process of computing the value of function outside the range of given values of the
-variable is called exterpolation
+variable is called extrapolation
 
 Interpolation is based on the following assumption:
 1. The values of the function should be in an increasing or decreasing order i.e., there are
